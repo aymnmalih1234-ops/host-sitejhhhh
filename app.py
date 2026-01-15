@@ -118,7 +118,7 @@ def get_api_endpoint(region):
         "IND": "https://client.ind.freefiremobile.com/GetPlayerPersonalShow",
         "BD": "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
         "PK": "https://clientbp.ggpolarbear.com/GetPlayerPersonalShow",
-        "ME": "https://clientbp.common.ggbluefox.com/GetPlayerPersonalShow",  # Middle East Server
+        "ME": "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",  # Middle East Server
         "default": "https://client.ind.freefiremobile.com/GetPlayerPersonalShow"
     }
     
