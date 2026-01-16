@@ -64,7 +64,7 @@ def get_jwt_token_sync(region):
         "IND": "https://raihan-access-to-jwt.vercel.app/token?uid=4344656844&password=RAIHANHACKER01",
         "BD": "https://raihan-access-to-jwt.vercel.app/token?uid=4363457346&password=SENKU_692491",
         "PK": "https://raihan-access-to-jwt.vercel.app/token?uid=4363456802&password=SENKU_692458",
-        "ME": "https://raihan-access-to-jwt.vercel.app/token?uid=4339385508&password=C30D723A75D3ADF00760F620A03F123A222CF7B4B14689F4BACD6E050C8817A8",
+        "ME": "https://amin-king-free.vercel.app/token?uid=4339385508&password=C30D723A75D3ADF00760F620A03F123A222CF7B4B14689F4BACD6E050C8817A8",
         "default": "https://raihan-access-to-jwt.vercel.app/token?uid=4339385508&password=C30D723A75D3ADF00760F620A03F123A222CF7B4B14689F4BACD6E050C8817A8"
     }
     
